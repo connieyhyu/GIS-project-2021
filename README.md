@@ -1,6 +1,6 @@
 # Roof-based Aspect and Slope Calculation
 
-This repository includes the Jupyter Notebook (`RASC.ipynb`) for calculating roof-based aspect and slope from point clouds. The file explains how the `RASC.ipynb` works. The calculation is part of the student project "Graph-Based Roof Classification". The below figure shows the calculation results of the student project.
+This repository includes the Jupyter Notebook (`RASC.ipynb`) for calculating roof-based aspect and slope from point clouds. The file explains how the `RASC.ipynb` works. The calculation is part of the student project "Graph-Based Roof Classification". The below figure shows the calculation results of the student project. However, the filtering point clouds part is not included in the Jupyter Notebook.
 ![plot](Overview.JPG)
 
 # Pre-requisites
