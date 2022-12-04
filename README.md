@@ -24,13 +24,13 @@ In this study, we follow the workflow from previous research (Adeleke and Smit, 
 
 # How to use this repository?
 
-1. Please check `# Pre-requisites` and `# Inputs`. 
+1. Please check [Pre-requisites](https://github.com/connieyhyu/GIS-project-2021#pre-requisites) and [Data Preparation](https://github.com/connieyhyu/GIS-project-2021#data-preparation) first. 
 
 2. Download the repository to your working directory.
 
 3. Open the `RASC.ipynb` Jupyter Notebook.
 
-4. Set your own working directory in the first cell. 
+4. Set your working directory in the first cell. 
 
 5. (Optional) If you would like to use your own reclassify classes, please modify the `remap` parameters as well.
 
